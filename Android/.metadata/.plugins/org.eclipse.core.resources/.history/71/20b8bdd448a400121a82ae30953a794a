@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SprinklerActivity" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/sprinkler_zone_layout_rsz" />
+
+    <Button
+        android:id="@+id/zone5Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="151dp"
+        android:layout_marginLeft="175dp"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/zone6Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/zone5Button"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="22dp"
+        android:layout_marginLeft="39dp"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/zone3Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="127dp"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/zone1Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/zone5Button"
+        android:layout_alignBottom="@+id/zone5Button"
+        android:layout_alignLeft="@+id/zone7Button"
+        android:layout_marginLeft="34dp"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/zone2Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/zone3Button"
+        android:layout_marginRight="125dp"
+        android:layout_marginTop="30dp"
+        android:layout_toLeftOf="@+id/zone3Button"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/zone4Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/zone2Button"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="28dp"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/zone7Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/zone3Button"
+        android:layout_below="@+id/zone2Button"
+        android:layout_marginLeft="22dp"
+        android:text="Button" />
+
+</RelativeLayout>

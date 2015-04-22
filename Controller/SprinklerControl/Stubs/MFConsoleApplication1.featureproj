@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <FeatureName>MFConsoleApplication1</FeatureName>
+    <Guid>{d185daeb-183e-408c-a21d-7c3f8b3037b0}</Guid>
+    <Description />
+    <Groups />
+  </PropertyGroup>
+  <ItemGroup>
+    <DriverLibs Include="MFConsoleApplication1.$(LIB_EXT)" />
+    <InteropFeature Include="MFConsoleApplication1" />
+    <MMP_DAT_CreateDatabase Include="$(BUILD_TREE_CLIENT)\pe\MFConsoleApplication1.pe" />
+    <RequiredProjects Include="C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\Stubs\dotnetmf.proj" />
+  </ItemGroup>
+</Project>

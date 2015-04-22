@@ -1,0 +1,186 @@
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.exe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.exe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdb
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdb
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.exe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.pdb
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.Net.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.W5100.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.Net.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.W5100.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.resources
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.tinyresources
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\TinyResGen.cache
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.exe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.pdb
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\le\SprinklerControl.exe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\be\SprinklerControl.exe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\le\SprinklerControl.pdb
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\be\SprinklerControl.pdb
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\SprinklerControl.exe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\SprinklerControl.pdb
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\le\SprinklerControl.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\le\SprinklerControl.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\be\SprinklerControl.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\be\SprinklerControl.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.Net.dll
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.W5100.dll
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.W5100.Http.dll
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.Net.xml
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.W5100.xml
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\bin\Debug\GHIElectronics.NETMF.W5100.Http.xml
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\SprinklerControl.Resources.resources
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\SprinklerControl.Resources.tinyresources
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\TinyResGen.cache
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\be\SprinklerControl.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\be\SprinklerControl.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\le\SprinklerControl.pe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\le\SprinklerControl.pdbx
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\SprinklerControl.exe
+C:\Users\matt\Documents\Visual Studio 2010\Projects\SprinklerControl\SprinklerControl\obj\Debug\SprinklerControl.pdb
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\le\SprinklerControl.exe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\be\SprinklerControl.exe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\le\SprinklerControl.pdb
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\be\SprinklerControl.pdb
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\SprinklerControl.exe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\SprinklerControl.pdb
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\le\SprinklerControl.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\le\SprinklerControl.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\be\SprinklerControl.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\be\SprinklerControl.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.IO.dll
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.Net.dll
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.System.dll
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.W5100.dll
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.W5100.Http.dll
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.IO.xml
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.Net.xml
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.System.xml
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.W5100.xml
+E:\Projects\SprinklerControl\Controller\SprinklerControl\bin\Debug\GHIElectronics.NETMF.W5100.Http.xml
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\TinyCLR_DebugReferences.cache
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\SprinklerControl.Resources.resources
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\GenerateResource.read.1.tlog
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\GenerateResource.write.1.tlog
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\SprinklerControl.Resources.tinyresources
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\TinyResGen.cache
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\SprinklerControl.exe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\SprinklerControl.pdb
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\be\SprinklerControl.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\be\SprinklerControl.pdbx
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\le\SprinklerControl.pe
+E:\Projects\SprinklerControl\Controller\SprinklerControl\obj\Debug\le\SprinklerControl.pdbx

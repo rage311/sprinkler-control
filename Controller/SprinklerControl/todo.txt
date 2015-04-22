@@ -1,0 +1,10 @@
+1.  Demand run all zones for configured amounts of time
+2.  Consistency between config file var names and "status" output names/formats
+3.  Fix/complete code to configure via network
+4.  Add controller's current time to status output
+5.  Add "countdown to next scheduled run" to status output
+6.  Allow demand runs even if NTP server can't be reached (and therefore current time is unknown)
+    - Add some kind of status message and maybe blink on-board LED when NTP server can't be reached
+7.  Make time zone configurable via config file
+8.  Auto zone run time ramping based on time of year (bell curve from April to October?)
+    - Eventually use moisture sensors for this purpose

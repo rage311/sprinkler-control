@@ -1,0 +1,86 @@
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.exe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.exe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdb
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdb
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.exe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.pdb
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdbx
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdbx
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.resources
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.tinyresources
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\TinyResGen.cache
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pdbx
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pdbx
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.exe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.pdb
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\matt\AppData\Local\Temporary Projects\MFConsoleApplication1\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.exe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.exe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdb
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdb
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.exe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.pdb
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.resources
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.tinyresources
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\TinyResGen.cache
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.exe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.pdb
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.Net.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.W5100.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.Net.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.W5100.xml
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\matt\documents\visual studio 2010\Projects\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\GHIElectronics.NETMF.IO.xml

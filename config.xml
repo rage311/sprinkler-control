@@ -1,0 +1,11 @@
+<SprinklerConfig>
+	<ZoneDuration id="0">1</ZoneDuration>
+	<ZoneDuration id="1">2</ZoneDuration>
+	<ZoneDuration id="2">2</ZoneDuration>
+	<ZoneDuration id="3">1</ZoneDuration>
+	<ZoneDuration id="4">2</ZoneDuration>
+	<ZoneDuration id="5">2</ZoneDuration>
+	<ZoneDuration id="6">1</ZoneDuration>
+	<StartTime>1099</StartTime>
+	<SysEnabled>1</SysEnabled>	
+</SprinklerConfig>
